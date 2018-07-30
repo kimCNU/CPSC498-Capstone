@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Office Hours</string>
+    <string name="action_settings">Settings</string>
+    <string name="text">Text</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="about" >\nApp created by Kim Jimenez and Matt Lupino \n\n This app displays
+        the office information for all CNU professors who filled out our web form. \n\n
+        To filter by your favorites, please type \"fav\", \"fave\", or \"favorite\" in the
+        search bar. \n\n
+        If you see an item in the list that is highlighted GREEN, then that means they
+        are in their office right now. \n\n
+        Happy Schooling!\n\n\n\n
+        Icon courtesy of Bharat Kumara (for the clock and person) and Amy Morgan (for the graduation cap) of The Noun Project.</string>
+</resources>
